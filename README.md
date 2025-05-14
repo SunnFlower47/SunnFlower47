@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-I’m an enthusiastic IT Support professional and Technical Support Specialist, experienced in diagnosing and resolving issues related to networking, hardware, and software.<br>I’m passionate about helping others through technology and keeping systems running efficiently.<br><br>🔧 Skills: Network Troubleshooting, Hardware/Software Repair, IT Support<br>🌱 Currently exploring full-stack web development and AI to broaden my tech capabilities.
+
+hi, i'm Ridwan(🌻SunnFlower🌻)<br> I’m an enthusiastic IT Support professional and Technical Support Specialist, experienced in diagnosing and resolving issues related to networking, hardware, and software.<br>I’m passionate about helping others through technology and keeping systems running efficiently.<br><br>🔧 Skills: Network Troubleshooting, Hardware/Software Repair, IT Support<br>🌱 Currently exploring full-stack web development and AI to broaden my tech capabilities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridwannnn_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-andrian-ra7474/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunflower.ra74@gmail.com) 
