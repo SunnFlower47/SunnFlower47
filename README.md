@@ -3,7 +3,7 @@
 # 💫 About Me:
 I’m an enthusiastic IT Support professional and Technical Support Specialist, experienced in diagnosing and resolving issues related to networking, hardware, and software.<br>I’m passionate about helping others through technology and keeping systems running efficiently.<br><br>🔧 Skills: Network Troubleshooting, Hardware/Software Repair, IT Support<br>🌱 Currently exploring full-stack web development and AI to broaden my tech capabilities.
 
-### .
+
 <div align="center">
 <P>Profile Views<P>
   <img src="https://profile-counter.glitch.me/SunnFlower47/count.svg?"  />
@@ -23,7 +23,7 @@ I’m an enthusiastic IT Support professional and Technical Support Specialist, 
   <img src="https://streak-stats.demolab.com?user=SunnFlower47&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SunnFlower47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
