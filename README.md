@@ -24,7 +24,7 @@ I’m an enthusiastic IT Support professional and Technical Support Specialist, 
 </div>
 
 ###
-s
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SunnFlower47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
