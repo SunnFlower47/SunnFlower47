@@ -20,7 +20,7 @@ hi, i'm Ridwan(🌻SunnFlower🌻)<br> I’m an enthusiastic IT Support professi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SunnFlower47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=2" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnFlower47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=3" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SunnFlower47&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=2" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SunnFlower47&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
