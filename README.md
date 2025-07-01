@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-hi, i'm Ridwan(🌻SunnFlower🌻)<br> I’m an enthusiastic IT Support professional and Technical Support Specialist, experienced in diagnosing and resolving issues related to networking, hardware, and software.<br>I’m passionate about helping others through technology and 
+Hi, I'm **Ridwan** (🌻 **SunFlower** 🌻)  
+I’m an enthusiastic **IT Support** professional and **Technical Support Specialist**, with hands-on experience in diagnosing and resolving issues related to **networking**, **hardware**, and **software**.  
+I’m passionate about **helping others through technology**, and I enjoy creating simple, effective solutions that make people’s digital lives easier.
+
 
 ---
 ## 💼 Skills
