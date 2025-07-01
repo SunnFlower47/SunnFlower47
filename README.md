@@ -27,7 +27,7 @@ Currently expanding my skills in **Fullstack Web Development** using Laravel, an
 - **Laravel**: MVC, Routing, Controller, Model, Auth, CRUD
 - **Frontend**: Blade, TailwindCSS, Bootstrap 5
 - **Database**: MySQL, Eloquent ORM, Migration, Seeder, Relational Design
-- **Tools**: Git, VS Code, Postman, Filament Admin
+- **Tools**: Git, VS Code, Filament Admin
 
 ---
 
