@@ -1,8 +1,75 @@
-
 # 💫 About Me:
 
 hi, i'm Ridwan(🌻SunnFlower🌻)<br> I’m an enthusiastic IT Support professional and Technical Support Specialist, experienced in diagnosing and resolving issues related to networking, hardware, and software.<br>I’m passionate about helping others through technology and keeping systems running efficiently.<br><br>🔧 Skills: Network Troubleshooting, Hardware/Software Repair, IT Support<br>🌱 Currently exploring full-stack web development and AI to broaden my tech capabilities.
 ##
+
+## 💼 Skills
+
+### 🛠 IT Support & Networking
+- Perbaikan hardware dan software komputer/laptop
+- Instalasi OS (Windows/Linux), aktivasi, driver, aplikasi
+- Konfigurasi jaringan dasar & Mikrotik (Routing, DHCP, NAT)
+- Troubleshooting koneksi internet (LAN/Wifi)
+- Penanganan masalah user (onsite & remote)
+
+### 💻 Fullstack Web Development
+- **Laravel**: Routing, Controller, Model, CRUD, Middleware, Auth
+- **Frontend**: Blade, TailwindCSS, Bootstrap 5
+- **Database**: MySQL, Migration, Seeder, Eloquent ORM, Relasi
+- **Tools**: Git, VS Code, Filament Admin
+
+---
+
+## 🔧 Work Experience
+
+**IT Support & Teknisi perbaikan Komputer**  
+_CV Prisma Computer Karawang_  
+🗓️ mart 2023 – nov 2023 
+- Perbaikan komputer, instalasi OS, backup & recovery data  
+- Setup dan konfigurasi jaringan kantor  
+- Penanganan langsung ke customer terkait masalah teknis
+
+---
+
+## 📂 Projects
+
+### 📌 Sistem Perpustakaan Online
+Laravel + Blade  
+Fitur: peminjaman buku, pengembalian otomatis, denda, dashboard admin.  
+🔗 [GitHub Repo](https://github.com/SunnFlower47/projects-UAS-semester-2.git)
+
+---
+
+### 📌 Sistem Manajemen Tugas Mahasiswa
+Laravel 12 + Filament Admin  
+Multi-role (mahasiswa & admin), upload tugas, validasi, pengumpulan otomatis.  
+🔗 [GitHub Repo](https://github.com/yourusername/sistem-tugas)
+
+
+---
+
+### 📌 Sistem Kasir Mini (POS App)
+Laravel + TailwindCSS  
+Barang masuk, stok otomatis, transaksi, laporan harian & bulanan.  
+🔗 [GitHub Repo](https://github.com/yourusername/pos-laravel)
+
+---
+
+## 🎓 Education
+
+**S1 Teknik Informatika – STTT Wastukancana**  
+📅 2023 – Sekarang
+
+**SMKN 1 CIBATU PURWAKARTA (TKJ)**  
+📅 2020 – 2023
+
+---
+
+## ☕ Let's Connect
+
+Jika kamu tertarik untuk bekerja sama, berdiskusi, atau memberikan kesempatan kerja, silakan hubungi saya melalui email atau LinkedIn!
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridwannnn_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-andrian-ra7474/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunflower.ra74@gmail.com) 
