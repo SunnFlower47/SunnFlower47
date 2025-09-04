@@ -50,17 +50,22 @@ Fitur: peminjaman buku, pengembalian otomatis, denda, dashboard admin.
 
 ---
 
-### 📌 Sistem Manajemen Tugas Mahasiswa
-Laravel 12 + Filament Admin  
-Multi-role (mahasiswa & admin), upload tugas, validasi, deadline otomatis.  
+### 📌 Sistem Manjemet Pelanggan Wifi
+Laravel 12 + PWA
+Manajemet Pelanggan dan Traking status pembayaran
 🔗 [Coming Soon]
 
 ---
 
-### 📌 Sistem Kasir Mini (POS App)
-Laravel + TailwindCSS  
-Stok barang, transaksi, laporan harian/bulanan.  
-🔗 [Coming Soon]
+### 📌 Sistem Kasir POS APP
+Laravel + Reac.js
+Stok barang, transaksi, laporan harian/bulanan.
+** Backend
+🔗https://github.com/SunnFlower47/kasir-pos-backend
+** Frotend
+🔗https://github.com/SunnFlower47/kasir-pos-frontend
+
+
 
 ---
 
