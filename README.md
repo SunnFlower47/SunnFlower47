@@ -58,7 +58,7 @@ Manajemet Pelanggan dan Traking status pembayaran
 ---
 
 ### 📌 Sistem Kasir POS APP
-Laravel + Reac.js
+* Laravel + Reac.js
 Stok barang, transaksi, laporan harian/bulanan.
 ** Backend
 🔗https://github.com/SunnFlower47/kasir-pos-backend
