@@ -57,7 +57,7 @@ Manajemet Pelanggan dan Traking status pembayaran
 
 ---
 
-# Sistem Kasir POS APP
+### Sistem Kasir POS APP
 
 Aplikasi kasir berbasis **Laravel** (Backend) dan **React.js** (Frontend) dengan fitur:
 
