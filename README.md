@@ -61,9 +61,9 @@ Manajemet Pelanggan dan Traking status pembayaran
 Laravel + Reac.js
 Stok barang, transaksi, laporan harian/bulanan.
 **Backend
-🔗[View Repo](🔗https://github.com/SunnFlower47/kasir-pos-backend)
+🔗 [View Repo](🔗https://github.com/SunnFlower47/kasir-pos-backend)
 **Frotend
-🔗[View Repo](https://github.com/SunnFlower47/kasir-pos-frontend)
+🔗 [View Repo](https://github.com/SunnFlower47/kasir-pos-frontend)
 
 
 
