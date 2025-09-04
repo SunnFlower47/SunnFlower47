@@ -47,7 +47,7 @@ _CV Prisma Computer – Karawang_
 Laravel + Blade  
 Fitur: peminjaman buku, pengembalian otomatis, denda, dashboard admin.  
 🔗 [View Repo](https://github.com/SunnFlower47/projects-UAS-semester-2.git)
-
+s
 ---
 
 ### 📌 Sistem Manjemet Pelanggan Wifi
@@ -57,13 +57,19 @@ Manajemet Pelanggan dan Traking status pembayaran
 
 ---
 
-### 📌 Sistem Kasir POS APP
-Laravel + Reac.js
-Stok barang, transaksi, laporan harian/bulanan.
-**Backend
-🔗 [View Repo](🔗https://github.com/SunnFlower47/kasir-pos-backend)
-**Frotend
-🔗 [View Repo](https://github.com/SunnFlower47/kasir-pos-frontend)
+# Sistem Kasir POS APP
+
+Aplikasi kasir berbasis **Laravel** (Backend) dan **React.js** (Frontend) dengan fitur:
+
+- Manajemen **stok barang**
+- Proses **transaksi**
+- Laporan **harian dan bulanan**
+
+**Backend:**  
+[GitHub - kasir-pos-backend](https://github.com/SunnFlower47/kasir-pos-backend)  
+
+**Frontend:**  
+[GitHub - kasir-pos-frontend](https://github.com/SunnFlower47/kasir-pos-frontend)
 
 
 
