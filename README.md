@@ -17,16 +17,16 @@ Currently expanding my skills in **Fullstack Web Development** using Laravel, an
 ## 💼 Skills
 
 ### 🛠 IT Support & Networking
-- Hardware/software troubleshooting (PC/laptop)
-- OS installation (Windows/Linux), activation, drivers, software
-- Basic Mikrotik configuration (Routing, DHCP, NAT)
-- Internet connection troubleshooting (LAN/WiFi)
+- Hardware/software troubleshooting (PC/laptop)  
+- OS installation (Windows/Linux), activation, drivers, software  
+- Basic Mikrotik configuration (Routing, DHCP, NAT)  
+- Internet connection troubleshooting (LAN/WiFi)  
 - Customer handling (onsite & remote support)
 
 ### 💻 Fullstack Web Development
-- **Laravel**: MVC, Routing, Controller, Model, Auth, CRUD
-- **Frontend**: Blade, TailwindCSS, Bootstrap 5
-- **Database**: MySQL, Eloquent ORM, Migration, Seeder, Relational Design
+- **Laravel**: MVC, Routing, Controller, Model, Auth, CRUD  
+- **Frontend**: Blade, TailwindCSS, Bootstrap 5  
+- **Database**: MySQL, Eloquent ORM, Migration, Seeder, Relational Design  
 - **Tools**: Git, VS Code, Filament Admin
 
 ---
@@ -44,41 +44,35 @@ _CV Prisma Computer – Karawang_
 ## 📂 Projects
 
 ### 📌 Sistem Perpustakaan Online
-Laravel + Blade  
-Fitur: peminjaman buku, pengembalian otomatis, denda, dashboard admin.  
-🔗 [View Repo](https://github.com/SunnFlower47/projects-UAS-semester-2.git)
-s
+**Tech:** Laravel + Blade  
+**Features:** Book borrowing, automatic returns, fines management, admin dashboard  
+🔗 [View Repo](https://github.com/SunnFlower47/projects-UAS-semester-2)
+
 ---
 
-### 📌 Sistem Manjemet Pelanggan Wifi
-Laravel 12 + PWA
-Manajemet Pelanggan dan Traking status pembayaran
+### 📌 Sistem Manajemen Pelanggan Wifi
+**Tech:** Laravel 12 + PWA  
+**Features:** Customer management and payment tracking  
 🔗 [Coming Soon]
 
 ---
 
-### Sistem Kasir POS APP
+### 📌 Sistem Kasir POS APP
+**Tech:** Laravel (Backend) + React.js (Frontend)  
+**Features:**  
+- Stock management  
+- Transaction processing  
+- Daily and monthly reports  
 
-Aplikasi kasir berbasis **Laravel** (Backend) dan **React.js** (Frontend) dengan fitur:
-
-- Manajemen **stok barang**
-- Proses **transaksi**
-- Laporan **harian dan bulanan**
-
-**Backend:**  
-[GitHub - kasir-pos-backend](https://github.com/SunnFlower47/kasir-pos-backend)  
-
-**Frontend:**  
-[GitHub - kasir-pos-frontend](https://github.com/SunnFlower47/kasir-pos-frontend)
-
-
+**Backend:** [GitHub - kasir-pos-backend](https://github.com/SunnFlower47/kasir-pos-backend)  
+**Frontend:** [GitHub - kasir-pos-frontend](https://github.com/SunnFlower47/kasir-pos-frontend)
 
 ---
 
 ## 🎓 Education
 
-**S1 Teknik Informatika – STTT Wastukancana**  
-📅 2023 – Present
+**S1 Teknik Informatika – STMIK Wastukancana**  
+📅 2023 – Present  
 
 **SMKN 1 Cibatu Purwakarta – TKJ (Teknik Komputer & Jaringan)**  
 📅 2020 – 2023
@@ -87,23 +81,24 @@ Aplikasi kasir berbasis **Laravel** (Backend) dan **React.js** (Frontend) dengan
 
 ## ☕ Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridwannnn_____) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-andrian-ra7474/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridwannnn_____)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwan-andrian-ra7474/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunflower.ra74@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+## 💻 Tech Stack
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SunnFlower47&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
