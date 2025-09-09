@@ -64,8 +64,8 @@ _CV Prisma Computer – Karawang_
 - Transaction processing  
 - Daily and monthly reports  
 
-**Backend:** [GitHub - kasir-pos-backend](https://github.com/SunnFlower47/kasir-pos-backend)  
-**Frontend:** [GitHub - kasir-pos-frontend](https://github.com/SunnFlower47/kasir-pos-frontend)
+**Backend:** 🔗 [View Repo](https://github.com/SunnFlower47/kasir-pos-backend)  
+**Frontend:** 🔗 [View Repo](https://github.com/SunnFlower47/kasir-pos-frontend)
 
 ---
 
