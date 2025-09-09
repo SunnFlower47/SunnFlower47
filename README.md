@@ -53,7 +53,7 @@ _CV Prisma Computer – Karawang_
 ### 📌 Sistem Manajemen Pelanggan Wifi
 **Tech:** Laravel 12 + PWA  
 **Features:** Customer management and payment tracking  
-🔗 [Coming Soon]
+🔗 [View Repo](https://github.com/SunnFlower47/Customer-managemet)
 
 ---
 
