@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Location-Karawang%2C%20ID-4A90D9?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Purwakarta%2C%20ID-4A90D9?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=flat-square&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years%20in%20IT-F39C12?style=flat-square&logo=clockify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Laravel%20%26%20Fullstack-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
